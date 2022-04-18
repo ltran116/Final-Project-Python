@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Lisa Tran
 
 #### Your section leader's name
 
-TODO
+Joanne A. Nichols
 
 #### Project title
 
-TODO
+Wordle
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have created the word bank and implemented the color change for the letters.
 
 #### What have you not done for your project yet?
 
-TODO
+It does not look quite how I want it too yet.
 
 #### What problems, if any, have you encountered?
 
-TODO
+None
